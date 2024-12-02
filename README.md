@@ -9,8 +9,7 @@ This is a machine learning application for predicting thyroid cancer recurrence.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Maab-Hu/Thyroid-Cancer-Prediction-ML-Application-.git
-cd Thyroid-Cancer-Prediction-ML-Application-
+git clone https://github.com/fazaulfath/Thyroid_Cancer_Prediction.git
 ```
 
 ### 2. Install Dependencies 
